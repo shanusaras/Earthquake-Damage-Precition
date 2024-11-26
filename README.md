@@ -9,7 +9,7 @@
 To predict the probability of building damage during earthquakes using machine learning and provide actionable insights to enhance disaster preparedness and risk mitigation strategies.
 
 ### **Context**  
-This project leverages Python, SQL, and machine learning techniques to analyze building structural data, environmental factors, and geographical features. The results aim to guide governments, insurers, and urban planners in mitigating earthquake risks and optimizing resource allocation.
+This project uses Python, SQL, and machine learning techniques to analyze building structural data, environmental factors, and geographical features. The results aim to guide governments, insurers, and urban planners in mitigating earthquake risks and optimizing resource allocation.
 
 
 
@@ -111,7 +111,7 @@ Predictive models can help stakeholders proactively design safer cities, reduce 
    - Recommendations tailored to mitigate risks and optimize resource usage.  
 
 3. **High Accuracy:**  
-   - Achieved 92% prediction accuracy with Random Forest.  
+   - Achieved 92% prediction accuracy with Random Forest algorithm  
 
 4. **Stakeholder-Centric Approach:**  
    - Emphasized solutions beneficial for governments, insurers, and urban planners.  
