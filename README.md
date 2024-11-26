@@ -1,5 +1,5 @@
 # Project Title  
-**Earthquake Damage Prediction and Strategic Mitigation Insights**
+**Earthquake Damage Prediction and Risk Mitigation Strategies**
 
 
 
