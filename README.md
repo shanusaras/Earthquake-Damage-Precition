@@ -103,7 +103,7 @@ Predictive models can help stakeholders proactively design safer cities, reduce 
 
 
 
-## Notable Features and Impact
+## Key Achievements and Strategic Impact
 1. **End-to-End Pipeline:**  
    - Comprehensive data cleaning, feature engineering, and predictive modeling.  
 
